@@ -59,36 +59,16 @@ Here are some ideas to get you started:
   <img align="center" alt="HTML" height="50" width="60"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="50" width="60"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <br><br>
-  <p>Back-end</p>
   <img align="center" alt="Node.js" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="PHP" height="70" width="60"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
   <img align="center" alt="Python" height="50" width="60"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <br><br>
-  <p>Database</p>
   <img align="center" alt="MySQL" height="50" width="60"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="PostgressSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="MongoDB" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /> 
-  <br><br>
-  <p>Frameworks/Lib Estilização</p>
   <img align="center" alt="React.js" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Tailwind" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Bootstrap" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <br><br>
-  <p>Ferramentas</p>
-  <img align="center" alt="VS Code" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Docker" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Debian" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
-  <img align="center" alt="Git" height="50" width="60"          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div><br>
-
-## 🏆 Prêmios, Cursos e Certificações
-
-Descrição   | Instituição   | Ano | Tipo
---------- | --------- | ------ | ------
-🏅 - | - | - | -
-🏅 - | - | - | -
-🏅 - | - | - | -
 
 ## 🌐 Minhas Redes Sociais
   
