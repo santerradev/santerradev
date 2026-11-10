@@ -25,7 +25,7 @@
 <!-- ===================== SOBRE MIM ===================== -->
 <h2 align="center">🧑‍🚀 <i>Sobre mim</i></h2>
 
-<img align="right" width="230" src="./assets/astronauta.svg" alt="Astronauta flutuando" />
+<img align="right" width="230" src="./assets/atomo.svg" alt="Astronauta flutuando" />
 
 **Olá! Eu sou o Antonio Santerra 👋**
 
