@@ -1,9 +1,11 @@
-name: Gerar cartões do perfil
+name: Gerar cartoes do perfil
 
 on:
+  push:
+    branches: [main]
   schedule:
-    - cron: "17 6 * * *" # todo dia às 03:17 (horário de Brasília)
-  workflow_dispatch: # permite rodar manualmente pela aba Actions
+    - cron: "17 6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
