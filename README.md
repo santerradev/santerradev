@@ -27,16 +27,16 @@
 
 <img align="right" width="230" src="./assets/astronauta.svg" alt="Astronauta flutuando" />
 
-Olá! Eu sou o ***Antonio Santerra***, desenvolvedor full stack apaixonado por tecnologia. Estou no último período do **Técnico em Informática para Internet** no **IFSul**, com foco em desenvolvimento Web. Gosto de construir plataformas web completas e de colocar a mão na massa com automação e eletrônica.
+**Olá! Eu sou o Antonio Santerra 👋**
 
-<p align="center">
-  🎓 <i><b>Estudante do Técnico em Informática para Internet — IFSul</b></i><br>
-  🌐 <i><b>Desenvolvimento Web full stack</b></i><br>
-  🤖 <i><b>Automação de processos e RPA com Arduino e ESP32</b></i><br>
-  🌱 <i><b>Aprendendo: React, Next.js, Python e MongoDB</b></i>
-</p>
+Desenvolvedor de software com interesse em tecnologia, inovação e construção de soluções digitais. Minha trajetória combina **desenvolvimento full stack**, **automação de processos** e **integração de sistemas**, sempre buscando transformar ideias em aplicações funcionais e eficientes.
 
-🚀 Aqui você encontra projetos que mostram meu crescimento e aprendizado. Estou aberto a colaborações e sempre disposto a trocar ideias sobre tecnologia!
+#### 🎓 Formação acadêmica
+
+- **Técnico em Informática para Internet** — IFSul *(concluído)*
+- **Análise e Desenvolvimento de Sistemas** — CESUCA
+- **Ciência da Computação** — CESUCA
+- **Administração** — UFRGS
 
 <br clear="right">
 
@@ -44,22 +44,55 @@ Olá! Eu sou o ***Antonio Santerra***, desenvolvedor full stack apaixonado por t
 <h2 align="center">⚙️ <i>Tecnologias</i></h2>
 
 <p align="center">
+  <b>Frontend</b><br>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <b>Backend</b><br>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/APIs%20REST-000000?style=for-the-badge&logo=json&logoColor=white" alt="APIs REST" />
+</p>
+
+<p align="center">
+  <b>Banco de Dados</b><br>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+<p align="center">
+  <b>Outros</b><br>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br>
+
+<!-- ===================== PROJETOS ===================== -->
+<h2 align="center">🚀 <i>Sobre meus projetos</i></h2>
+
+<p align="center">
+  Aqui compartilho projetos, experimentos e soluções desenvolvidas ao longo da minha jornada acadêmica e profissional.
+  Tenho especial interesse em explorar novas tecnologias, desenvolver aplicações completas e encontrar maneiras de
+  utilizar a tecnologia para otimizar processos e resolver problemas reais.
+</p>
+
+<p align="center">
+  Estou sempre buscando novos desafios, aprendizados e oportunidades de colaboração!
+</p>
+
+<p align="center">
+  <i>"A tecnologia faz sentido quando transforma ideias em soluções."</i>
 </p>
 
 <br>
@@ -68,7 +101,6 @@ Olá! Eu sou o ***Antonio Santerra***, desenvolvedor full stack apaixonado por t
 <h2 align="center">📈 <i>Estatísticas</i></h2>
 
 <!-- Os cartões abaixo são gerados pelo GitHub Actions (.github/workflows/profile-cards.yml) -->
-
 
 <p align="center">
   <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub" />
