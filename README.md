@@ -68,9 +68,7 @@ Olá! Eu sou o ***Antonio Santerra***, desenvolvedor full stack apaixonado por t
 <h2 align="center">📈 <i>Estatísticas</i></h2>
 
 <!-- Os cartões abaixo são gerados pelo GitHub Actions (.github/workflows/profile-cards.yml) -->
-<p align="center">
-  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribuições" />
-</p>
+
 
 <p align="center">
   <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub" />
