@@ -1,86 +1,9 @@
-<!--
-**santerradev/santerradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== BANNER ===================== --> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:7a7a7a&height=220&section=header&text=Bem-vindo%20ao%20GitHub%20do%20Antonio&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=%3C%2F%3E&descSize=26&descAlignY=58&animation=fadeIn" alt="Banner" /> </p> <!-- ===================== REDES SOCIAIS ===================== --> <!-- Troque SEU-USUARIO pelos seus usuários reais --> <p align="center"> <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.youtube.com/@SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://github.com/santerradev?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a> </p> <br> <!-- ===================== SOBRE MIM ===================== --> <h2 align="center">🧑‍🚀 <i>Sobre mim</i></h2> <hr> <img align="right" width="230" src="./assets/astronauta.svg" alt="Astronauta flutuando" />
 
-Here are some ideas to get you started:
+Olá! Eu sou o Antonio Santerra, desenvolvedor full stack apaixonado por tecnologia. Estou no último período do Técnico em Informática para Internet no IFSul, com foco em desenvolvimento Web. Gosto de construir plataformas web completas e de colocar a mão na massa com automação e eletrônica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 🎓 <i><b>Estudante do Técnico em Informática para Internet — IFSul</b></i><br> 🌐 <i><b>Desenvolvimento Web full stack</b></i><br> 🤖 <i><b>Automação de processos e RPA com Arduino e ESP32</b></i><br> 🌱 <i><b>Aprendendo: React, Next.js, Python e MongoDB</b></i> </p>
 
-### Bem vindo ao perfil de Antonio Santerra, atualmente cursando tecnico em informática pelo IFSul! 👋
+🚀 Aqui você encontra projetos que mostram meu crescimento e aprendizado. Estou aberto a colaborações e sempre disposto a trocar ideias sobre tecnologia!
 
-<!--
-<style>
-  div{
-    display: flex;
-    flex-direction: row;
-    jutify-content: center;
-    align-items: center;
-  }
-</style>
--->
-
-## Um pouco sobre mim:
-<div>
-  <p>
-    Me chamo Antonio Santerra, desenvolvedor full stack apaixonado por tecnologia, cursando o ultimo período 
-    do curso medio Técnico em Informática para Internet, curso do qual o foco é desenvolvimento Web,
-    tenho experiência no desenvolvimento de plataformas Web utilizando as atuais tecnologias do mercado.
-    Meus conhecimentos principais são: Node.js, PHP, MySQL, HTML, CSS, Java Script, JQuery, Fire Base
-    também possuo experiência em Automação de Processos, RPA com arduino e esp32.
-  </p>
-  <br>
-  <!--
-  <p>
-    Atualmente, estou aprofundando meus conhecimentos nas linguagens de programação Python, Java e MongoDB, além de explorar frameworks como React e Next.js.
-    Meu objetivo é desenvolver aplicações que não apenas atendam às necessidades dos usuários, mas que também proporcionem uma experiência dinâmica e 
-    agradável. Estou sempre em busca de aprender novas habilidades e me manter atualizado com as tendências do mercado. Participo de projetos acadêmicos e colaborativos, 
-    onde posso aplicar o que aprendo e contribuir com a comunidade de desenvolvedores.
-  </p>
-  <br>
-  -->
-  <p>
-    🚀 No meu GitHub, você encontrará uma variedade de projetos que refletem meu crescimento e aprendizado. Estou aberto a colaborações e sempre disposto a trocar ideias 
-    sobre tecnologia e desenvolvimento.
-  </p>
-</div>
-
-## 👨🏽‍💻💻 Tecnologias Dominadas
-  
-<div style=" display: flex">
- 
-  <p>Front-end</p>
-  <img align="center" alt="Node.js" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React.js" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="JavaScript" height="50" width="60"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="50" width="60"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="50" width="60"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="PostgressSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="MongoDB" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /> 
-</div><br>
-
-## 🌐 Minhas Redes Sociais
-  
-<div> 
-  <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-  target="_blank"></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-## ⚙️ Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/Santerra-code">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santerradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santerradev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+<br clear="right"> <!-- ===================== TECNOLOGIAS ===================== --> <h2 align="center">⚙️ <i>Tecnologias</i></h2> <hr> <p align="center"> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <br> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p> <br> <!-- ===================== ESTATÍSTICAS ===================== --> <h2 align="center">📈 <i>Estatísticas</i></h2> <hr> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=santerradev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&border_color=30363d&custom_title=Estat%C3%ADsticas%20do%20Antonio&locale=pt-br" alt="Estatísticas do GitHub" /> <img height="165" src="https://streak-stats.demolab.com?user=santerradev&locale=pt_BR&background=000000&border=30363D&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="Sequência de contribuições" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santerradev&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20do%20Antonio&bg_color=000000&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=3a3a3a&border_color=30363d&hide_border=false" alt="Gráfico de contribuições" /> </p> <p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santerradev&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d&locale=pt-br" alt="Linguagens mais usadas" /> </p> <!-- ===================== RODAPÉ ===================== --> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a7a7a,50:2b2b2b,100:000000&height=100&section=footer" alt="Rodapé" /> </p>
